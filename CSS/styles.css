@@ -1,0 +1,29 @@
+<style>
+body{
+background-color: FBE5E5;
+}
+
+h1{
+color: F94892;
+}
+
+h3{
+color: 56BBF1;
+}
+</style>
+</head>
+<!-- inline CSS -->
+<!--<body style = "background-color: FFB2A6;">-->
+
+
+</body>
+
+
+hr{
+  /* background-color:white; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 100%
+}
